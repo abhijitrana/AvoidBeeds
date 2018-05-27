@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 82e486efb24564b73ac4d7960e7c0ccb
+timeCreated: 1501975406
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 270 Fudge
+  fontNames:
+  - 270 Fudge
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
